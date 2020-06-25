@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACA,EAAE;EACF,UAAU,EAAE,MAAM;EAClB,WAAW,EAAE,wCAAwC;EACrD,SAAS,EAAE,IAAI;EACf,KAAK,EAAE,IAAI;;AAEV,IAAI;EACA,gBAAgB,EAAE,2BAA2B",
+"sources": ["stylemain.scss"],
+"names": [],
+"file": "stylem.css"
+}

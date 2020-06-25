@@ -1,0 +1,28 @@
+h1 {
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 80px;
+  color: white;
+padding-top: 20px; }
+
+body {
+  background-image: url("E:/Edx/media/bgr.jpg"); }
+.row .col-sm{
+
+  border-radius: 2px;
+  color: white;
+  text-align: center;
+  font-size: 40px;
+  font-family: monospace;
+}
+table,th,td{
+  background-color: aliceblue;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  border: 2px solid black;
+  
+}
+
+/*# sourceMappingURL=stylem.css.map */
