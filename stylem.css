@@ -6,7 +6,7 @@ h1 {
 padding-top: 20px; }
 
 body {
-  background-image: url("E:/Edx/media/bgr.jpg"); }
+  background-image: url("bgr.jpg"); }
 .row .col-sm{
 
   border-radius: 2px;
@@ -25,4 +25,18 @@ table,th,td{
   
 }
 
+@media screen and (max-width:1000px){
+  .Logos{
+    float: left;
+  }
+  img{
+    float: none;
+  }
+  .Logos .container .col-sm{
+    display: none;
+  }
+  }
+  a{
+    color:white !important;
+  }
 /*# sourceMappingURL=stylem.css.map */

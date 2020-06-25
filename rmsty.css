@@ -35,4 +35,9 @@ ul {
 .squad li:nth-child(3)::after {
   content: " (GK)"; }
 
+button {
+  position: absolute;
+  left: 50%;
+  top: 90%; }
+
 /*# sourceMappingURL=rmsty.css.map */
